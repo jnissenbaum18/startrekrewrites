@@ -21,19 +21,23 @@
 title: Star Trek Rewrites
 email: actual@startrekrewrites.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Boldly rewriting, where plenty of writers have come before.
 domain: "https://startrekrewrites.com"
-baseurl: "startrekrewrites" # the subpath of your site, e.g. /blog
+baseurl: "/startrekrewrites/" # the subpath of your site, e.g. /blog
 url: "https://github.com/jnissenbaum18" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
+# twitter_username: jekyllrb
+# github_username: jekyll
+version: 0.1.1
+
+github:
+  repo: https://github.com/jnissenbaum18/startrekrewrites
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -53,3 +57,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Dependencies
+markdown: kramdown
+highlighter: rouge
+
+#config
+paginate: 5
+# paginate_path: "/stories/page:num"
+# Or '/my-jekyll-site/page:num' if you want to move your index pages
