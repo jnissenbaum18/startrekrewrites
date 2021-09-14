@@ -32,8 +32,8 @@ html {
 }
 
 body {
-  color: #848482;
-  background-color: #000000;
+  color: #bbb;
+  background-color: #222;
 }
 
 h1,
@@ -43,7 +43,7 @@ h4,
 h5,
 h6 {
   font-family: 'EB Garamond', serif;
-  color: #aaa;
+  color: #268bd2;
 }
 
 h1 a,
@@ -188,9 +188,10 @@ tbody tr:nth-child(odd) th {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255, 255, 255, .5);
-  background-color: #000;
+  /* color: rgba(255, 255, 255, .5); */
+  background-color: #222;
   overflow: auto;
+  border-right: 5px solid black;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -208,12 +209,18 @@ tbody tr:nth-child(odd) th {
   color: #268bd2;
 }
 
+
+
 /* About section */
 .sidebar-about h1 {
   color: #268bd2;
   margin-top: 0;
   font-family: 'Noto Serif', serif;
-  font-size: 2.25rem;
+  font-size: 2rem;
+}
+
+.sidebar-about h1 a {
+  color: #caad00;
 }
 
 /* Sidebar nav */
@@ -244,6 +251,7 @@ a.sidebar-nav-item:focus {
     right: 1rem;
     bottom: 1rem;
     left: 1rem;
+    padding: 0;
   }
 }
 
