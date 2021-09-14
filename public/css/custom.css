@@ -8,17 +8,19 @@
 }
 
 .pinned {
-    background-color:#aa759f;
+    background-color:#ffffffe6;
     color: #333;
-    border-radius: 5px;
+    border-radius: 3px;
     padding: 10px;
     font-size: 30px;
     /* text-align: center; */
     line-height: 3;
+    padding-bottom: 17px;
 }
 
 .pinned a {
-    color: #caad00;
+    color: #3e93cf;
+    font-weight: 600;
 }
 
 .pinned-text {
