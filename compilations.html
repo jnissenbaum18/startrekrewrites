@@ -8,7 +8,7 @@ title: "Compilations"
     {% for post in site.pages %}
       {% if post.compilation == true %}
         <li>
-          <a href="{{ post.url }}">
+          <a href="{{ post.url | relative_path }}">
             {{ post.compilationTitle }}
           </a>
         </li>
