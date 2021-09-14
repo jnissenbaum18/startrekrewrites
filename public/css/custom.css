@@ -1,0 +1,35 @@
+.post-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.post-nav h2 a {
+    color: #caad00;
+}
+
+.pinned {
+    background-color:#aa759f;
+    color: #333;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 30px;
+    /* text-align: center; */
+    line-height: 3;
+}
+
+.pinned a {
+    color: #caad00;
+}
+
+.pinned-text {
+    color: #333;
+    margin: 0 1rem;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.compilations a {
+    color: #268bd2;
+}

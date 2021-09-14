@@ -61,7 +61,7 @@ h6 a {
 
 a {
   color: #ffeb99;
-  transition: color ease 0.3s;
+  /* transition: color ease 0.3s; */
 }
 
 a:hover {
@@ -205,13 +205,16 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Sidebar links */
+.sidebar h1 a {
+  color: #caad00;
+}
+
 .sidebar a {
   color: #268bd2;
 }
 
-
-
 /* About section */
+
 .sidebar-about h1 {
   color: #268bd2;
   margin-top: 0;
@@ -219,9 +222,7 @@ tbody tr:nth-child(odd) th {
   font-size: 2rem;
 }
 
-.sidebar-about h1 a {
-  color: #caad00;
-}
+
 
 /* Sidebar nav */
 .sidebar-nav {
@@ -262,7 +263,7 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top: 4rem;
+  padding-top: 2rem;
   padding-bottom: 4rem;
 }
 

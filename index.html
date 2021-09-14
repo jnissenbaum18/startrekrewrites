@@ -3,6 +3,13 @@ layout: default
 title: Home
 ---
 
+<div class="pinned">
+  <h1 class="pinned-text bold">Pinned Message:</h1>
+  <h4 class="pinned-text">Please note that you are viewing the lastest posts first.
+    To view the list of story compliations, please click <a href="/compilations.html">HERE</a>
+  </h4>
+</div>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">

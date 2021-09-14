@@ -1,0 +1,18 @@
+---
+layout: page
+title: "Compilations"
+---
+
+<div class="compilations">
+  <ul>
+    {% for post in site.pages %}
+      {% if post.compilation == true %}
+        <li>
+          <a href="{{ post.url }}">
+            {{ post.compilationTitle }}
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

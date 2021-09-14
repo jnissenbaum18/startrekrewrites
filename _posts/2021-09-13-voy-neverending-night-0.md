@@ -4,8 +4,6 @@ title: "Star Trek: Voyager - The Neverending Night"
 subtitle: "Brief Authors Note"
 date: 2021-09-13 17:36:50 -0500
 categories: voyager neverending
-previous: null
-next: 2021-09-13-voy-neverending-night-1
 ---
 
 The premise of this story is to combine the thematic and dramatic elements of the Star Trek: Voyager episodes Night and The Void respectively. This story takes place at the beginning of season five as if it were the season opener and replaced Night. 
