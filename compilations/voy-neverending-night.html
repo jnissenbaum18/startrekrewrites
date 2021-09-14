@@ -10,6 +10,7 @@ compilationTitle: "Star Trek: Voyager - The Neverending Night"
   {% if post.categories contains "voyager" %}
     <div class="post">
       <h2 class="post-subtitle">{{ post.subtitle }}</h2>
+      <span class="post-date">{{ post.date | date_to_string }}</span>
       {{ post.content }}
     </div>
   {% endif %}
