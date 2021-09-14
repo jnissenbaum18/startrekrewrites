@@ -30,7 +30,8 @@
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{
   "/public/apple-touch-icon-144-precomposed.png" | relative_url }}"> <link
-  rel="shortcut icon" href="{{ "/public/strewritelogo_002.png" | relative_url }}">
+  rel="shortcut icon" href="{{ "/public/strewritelogo_002.png" | relative_url
+  }}" type="image/x-icon">
 
   <!-- RSS -->
   <link
@@ -53,5 +54,13 @@
     gtag("js", new Date());
 
     gtag("config", "G-0VM4K92PYP");
+  </script>
+  <script>
+    function setFavicon() {
+      var link = $('link[type="image/x-icon"]').remove().attr("href");
+      $(
+        '<link href="' + link + '" rel="shortcut icon" type="image/x-icon" />'
+      ).appendTo("head");
+    }
   </script>
 </head>
