@@ -13,18 +13,18 @@ layout: default
 
 <div class="post-nav">
   <h2>
-    {% unless page.previous.hidden == true %}
+    {% if page.previous.hidden != true and page.previous.url %}
       <a href="{{ page.previous.url }}">
         Previous
       </a>
-    {% endunless %}
+    {% endif %}
   </h2>
   <h2>
-    {% unless page.next.hidden == true %}
+    {% if page.next.hidden != true and page.next.url %}
       <a href="{{ page.next.url }}">
         Next
       </a>
-    {% endunless %}
+    {% endif %}
   </h2>
 </div>
 
