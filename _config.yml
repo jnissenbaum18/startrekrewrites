@@ -23,7 +23,7 @@ email: actual@startrekrewrites.com
 description: >- # this means to ignore newlines until "baseurl:"
   Boldly rewriting, what plenty of writers have written before.
 domain: "https://startrekrewrites.com"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/jnissenbaum18" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: jekyll
