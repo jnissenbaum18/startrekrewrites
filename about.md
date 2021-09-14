@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## What is startrekrewrites.com?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This website is a personal project of mine. The idea was to take some of the missed
+opportunities or not as well executed episodes/movies of Star Trek and rewrite them into full (and hopefully better) stories.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Which episodes/movies are you going to rewrite?
 
+I have a few ideas right now, the top of which is a rewrite of Star Trek III: The Search for Spock. But I am open to suggestions. Feel free to shoot me an email if you have a good idea.
 
-[jekyll-organization]: https://github.com/jekyll
+## How often will you be posting?
+
+I have no idea. It depends on my schedule, my motivation and the community reaction. The Neverending Night took me a month to complete working on it nearly full time. So I would not expect frequent posting.
