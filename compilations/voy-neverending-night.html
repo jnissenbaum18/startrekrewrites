@@ -9,7 +9,7 @@ compilationTitle: "Star Trek: Voyager - The Neverending Night"
 {% for post in site.posts reversed %}
   {% if post.categories contains "voyager" %}
     <div class="post">
-      <h1 class="post-subtitle">{{ post.subtitle }}</h1>
+      <h2 class="post-subtitle">{{ post.subtitle }}</h2>
       {{ post.content }}
     </div>
   {% endif %}
