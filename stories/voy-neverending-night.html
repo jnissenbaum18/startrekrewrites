@@ -6,12 +6,36 @@ compilationTitle: "Star Trek: Voyager - The Neverending Night"
 
 <h1 class="page-title">Star Trek: Voyager - The Neverending Night</h1>
 
-{% for post in site.posts reversed %}
-  {% if post.categories contains "voyager" %}
-    <div class="post">
-      <h2 class="post-subtitle">{{ post.subtitle }}</h2>
-      <span class="post-date">{{ post.date | date_to_string }}</span>
-      {{ post.content }}
-    </div>
-  {% endif %}
+<!-- 
+  Liquid doesn't allow the creation of dynamic objects such as JSON. 
+  To iterate over a collection, you have to store it as a string 
+  which is then split as if it were a multilevel array.
+ -->
+
+{% capture chapters_data %} {% comment %} Capture will assign the wrapped values as a large concatenated string {% endcomment %}
+  {% for post in site.posts reversed %}
+    {% if post.categories contains "voyager" %}
+      {{post.subtitle}}|{{post.date}}|{{post.content}} {% comment %}Layer 1 of the array will be the post values separated by a pipe {% endcomment %}
+      {% if forloop.last == false %}::{% endif%} {% comment %} Layer 2 will be the set of post values separated by ::, only when the loop is not on last {% endcomment %}
+    {% endif %}
+  {% endfor %}
+{% endcapture %}
+{% assign chapters_array = chapters_data | split: '::' %} <!-- This creates an array of strings from the single string. Each array value is the captured layer 1. -->
+
+<ul>
+  {% for chapter in chapters_array %}
+    {% assign chapter_vals = chapter | split: '|' %} <!-- This will further decompose the array. We now have access to the captured data in layer 1 as array indexes -->
+    {% assign chapter_link = chapter_vals[0] | strip %}
+    <li>
+      <a href="#{{ chapter_link }}">{{ chapter_vals[0] }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+{% for chapter in chapters_array %}
+  {% assign chapter_vals = chapter | split: '|' %}
+  {% assign chapter_id = chapter_vals[0] | strip %}
+  <h2 class="post-subtitle" id="{{ chapter_id }}">{{ chapter_vals[0] }}</h2>
+  <span class="post-date">{{ chapter_vals[1] | date_to_string }}</span>
+  {{ chapter_vals[2] }}
 {% endfor %}

@@ -29,6 +29,7 @@ ______ _            _   ______
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  scroll-behavior: smooth;
 }
 
 body {
