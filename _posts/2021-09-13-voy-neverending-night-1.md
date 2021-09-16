@@ -138,7 +138,7 @@ Chakotay took a step towards the viewscreen. “It feels like we’ve been becal
 
 Feeling that she had nothing else to add, Seven merely asked. “Shall I inform the Captain of my findings?”
 
-The Captain. 
+*The Captain.* 
 
 Chakotay finally looked down to the seat right beside his own. Empty, as it had been for weeks now. Normally, if the Captain was not on the bridge, she was in her ready room. But Chakotay knew she wasn’t there. No, ever since they had entered this region of space, the Captain had been different, uneasy, troubled. Finally, she had sequestered herself in her quarters and never came back out. Chakotay had been meaning to talk to the Captain about her behavior, but he just couldn’t bring himself to do it. What could he possibly say to her? He had avoided the confrontation for as long as he could, but now he felt that he could not put it off any longer. 
 
