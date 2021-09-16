@@ -62,7 +62,7 @@ From behind the Doctor, the Robot appeared. It was cylindrical in shape, a few i
 
 The Doctor rolled his eyes, having long since been fed up with the situation he now found himself in. “Computer, freeze program.” A beep of acknowledgement sounded above. Everything in the room except for the Doctor, Tom Paris and Harry Kim froze instantly in place. 
 
-“Doc, this is the final chapter.” Paris pleaded as he stepped up to the Doctor. “Satan’s Robot Conquers the World. We can’t just stop now.”
+“Doc, this is the final chapter.” Paris pleaded as he stepped up to the Doctor. “*Satan’s Robot Conquers the World.* We can’t just stop now.”
 
 “Does the phrase ‘To Be Continued…’ mean anything to you?” The Doctor retorted.
 
