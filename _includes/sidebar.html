@@ -27,7 +27,21 @@
       {% endfor %}
 
       <hr>
-      Send me a hail:<a class="sidebar-nav-item" href="mailto:actual@startrekrewrites.com" target="_blank">actual@startrekrewrites.com</a>
+      Send me a hail<a class="sidebar-nav-item" href="mailto:actual@startrekrewrites.com" target="_blank">actual@startrekrewrites.com</a>
+      <div class="signup-form"> 
+        Or signup for updates
+        <form
+          action="https://formspree.io/f/meqvnreq"
+          method="POST"
+          target="_blank"
+        >
+          <div class="signup-form__field">
+            <input required pattern=".*\S.*" type="email" name="_replyto" placeholder="Your email address">
+          </div>
+          <button type="submit">Send</button>
+        </form>
+      </div>
+      
       <hr>
       <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
       {% for node in pages_list %}
