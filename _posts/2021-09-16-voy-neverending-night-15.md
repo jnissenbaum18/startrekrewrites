@@ -16,7 +16,7 @@ Janeway ran for cover, unslinging the compression phaser rifle from her back. �
 
 Janeway continued to shift position, weaving through the exposed conduits on the sides of the complex while watching carefully for any signs of movement above. “I’m afraid I’ll have to pass on that offer. Besides, from what I saw, it’s your ship that isn’t making it out of here, not mine. How does it feel to be on the losing side?”
 
-“I haven’t lost yet.” Valen replied. “Your little experiment in diplomacy was a spectacular failure. So to will be the final moments of your life.”
+“I haven’t lost yet.” Valen replied. “Your little experiment in diplomacy was a spectacular failure. So too will be the final moments of your life.”
 
 “Call it what you will.” Janeway said. “But we made it further than you did preying upon defenseless ships and crews.”
 
@@ -34,7 +34,7 @@ Valen didn’t respond at first, contemplating what Janeway meant by her questio
 
 Janeway could tell she had reopened a very old wound in Valen. “I could have saved them!” He thundered with furious rage. “Had my ship survived the journey to the Array, had those ignorant imputent Kazon cretins not interfered with me, I would have saved my crew and shredded that decrepit station, along with that senile old man, down to the last atom!”
 
-Janeway had Valen right in her sights. “Sounds to me like you were too weak to save them.” She pulled the trigger. Several bolts of energy shot out from the phaser and ricochet off the panel on the far side of the room. Had the blast been a direct shot, Valen wouldn’t have had time to react. However, he heard the blast right as the bolts were bouncing off the panel towards him. He ducked at the last moment, however the motion caused him to drop his hand phaser. It clattered to the ground and was sent hurtling down to the bottom of the complex.
+Janeway had Valen right in her sights. “Sounds to me like you were too weak to save them.” She pulled the trigger. Several bolts of energy shot out from the phaser and ricocheted off the panel on the far side of the room. Had the blast been a direct shot, Valen wouldn’t have had time to react. However, he heard the blast right as the bolts were bouncing off the panel towards him. He ducked at the last moment, however the motion caused him to drop his hand phaser. It clattered to the ground and was sent hurtling down to the bottom of the complex.
 
 Janeway shifted her position again and waited for any sign of movement from Valen. Instead, all she heard was laughter. “I will say this, Captain.” He started. “You are one of the more cunning opponents I have faced. It’s too bad I don’t have my Kotra set with me. I imagine it would be a very entertaining match.”
 

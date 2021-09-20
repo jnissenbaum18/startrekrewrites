@@ -80,7 +80,7 @@ The room went silent. Everyone looked at Chakotay, waiting for a response. But C
 
 “Look.” Chakotay continued. “We’re all feeling the pressure, including me. But we have to make the best of it.”
 
-“Maybe we’ve got the wrong attitude here. This could be a good chance of pace.” Kim proposed. “Why don’t we think of this as a two month vacation instead?”
+“Maybe we’ve got the wrong attitude here. This could be a good change of pace.” Kim proposed. “Why don’t we think of this as a two month vacation instead?”
 
 Torres was not impressed with Kim’s suggestion at all. “That’s a great idea, Harry. Why didn’t I think of that?” She said sarcastically.
 

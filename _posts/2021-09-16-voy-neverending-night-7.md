@@ -56,7 +56,7 @@ Paris guffawed in disbelief. “I don’t think it works that way.”
 
 “Why not?” Torres asked.
 
-Before Paris could think of a good answer, the rocket ship control room juddered. Was it the program? Paris didn’t think so.
+Before Paris could think of a good answer, the rocket ship control room juddered. Was it the programme? Paris didn’t think so.
 
 Over the shipwide comm system, Lieutenant Commander Tuvok’s voice made the announcement. “Red alert. All hands, report to battlestations.”
 

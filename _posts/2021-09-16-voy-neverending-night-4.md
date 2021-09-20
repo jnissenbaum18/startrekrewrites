@@ -124,7 +124,7 @@ The pair proceeded to the back of engineering, behind the warp core. The intrude
 
 The hole was at least five meters in diameter and spanned across both deck eleven and deck ten above. It looked as if some gargantuan creature had come up and chomped off a mouthful of hull off the side of Voyager. Pieces of bent tritanium blossomed out from the edges of the breach like torn up shreds of wrapping paper. Severed power lines and conduits sparked and flashed as they uselessly expelled their energy into the air. Even though Torres could see directly into space as if the gap was totally open to the vacuum beyond, she knew that an emergency forcefield was preventing the atmosphere from escaping. 
 
-Seven and Torres got to work, rerouting power lines and repairing broken conduits. Just as they were wrapping up, Torres’ Klingon instincts, imbued into her from generations upon generations of the warrior race waging war against one another, started shouting in her head. She snapped around from the bulkhead she and Seven were working on. Her outstretched arm flicked back and fourth, using the cones of light from the SIM’s beacon to scan the hallway. 
+Seven and Torres got to work, rerouting power lines and repairing broken conduits. Just as they were wrapping up, Torres’ Klingon instincts, imbued into her from generations upon generations of the warrior race waging war against one another, started shouting in her head. She snapped around from the bulkhead she and Seven were working on. Her outstretched arm flicked back and forth, using the cones of light from the SIM’s beacon to scan the hallway. 
 
 “Is something the matter?” Seven asked over the comm. 
 

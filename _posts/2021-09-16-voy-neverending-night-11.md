@@ -66,7 +66,7 @@ Valen then played an audio recording. Janeway’s voice was clear as day.
 
 *'No point. We’ll get out of here, and then we’ll destroy the station once we leave.'* 
 
-Janeway's stomach lept right up into her chest. She could feel her heart begin to race. The perspiration begin to coat her fingertips. The twinge of her muscles in the back of her neck. 
+Janeway's stomach leapt right up into her chest. She could feel her heart begin to race. The perspiration start to coat her fingertips. The twinge of her muscles in the back of her neck. 
 
 "Where's the away team!?" She shouted at Chakotay. 
 
@@ -128,7 +128,7 @@ Emck closed the channel. His behemoth freighter was now almost right on top of V
 
 "Tom, detach us from the station. Tuvok, return fire!" Janeway shouted. 
 
-Voyager decoupled itself from the station arms. It pitched over sideways, dodging a series of explosions that flashed with blue smoke and electricity. Voyager returned the favor. Multiple phaser beams charged and shot fourth in the direction of the collosal Malon vessel. They impacted the freighter's shields, scoring multiple hits but doing little damage. At the same time, other Alliance ships began releasing themselves from the station. Bearing down on Voyager’s position while the Krebor watched patiently from afar. 
+Voyager decoupled itself from the station arms. It pitched over sideways, dodging a series of explosions that flashed with blue smoke and electricity. Voyager returned the favor. Multiple phaser beams charged and shot forth in the direction of the collosal Malon vessel. They impacted the freighter's shields, scoring multiple hits but doing little damage. At the same time, other Alliance ships began releasing themselves from the station. Bearing down on Voyager’s position while the Krebor watched patiently from afar. 
 
 "Multiple ships are inbound on our position!" Tuvok shouted. "They are locking weapons on us."
 
@@ -138,7 +138,7 @@ Voyager decoupled itself from the station arms. It pitched over sideways, dodgin
 
 The bridge pitched and rolled as Voyager was now being assaulted by multiple ships. Sparks flew across the bridge as consoles and conduits exploded all around them.
 
-"Shields down to 12 percent!" Tuvok called out. 
+"Shields down to twelve percent!" Tuvok called out. 
 
 "Captain!" Chakotay yelled in desperation. 
 

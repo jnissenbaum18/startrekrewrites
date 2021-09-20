@@ -28,7 +28,7 @@ Suddenly, the airlock door snapped open with a hiss of rushing air and the man s
 
 CHAOTICA instantly recognized his arch-nemesis. “Captain Proton.” He said derisively
 
-The heroic Captain Proton stepped forward. He wore a brand new bomber jacket, khaki dress pants, a sliver jetpack on his back with aviator goggles strapped to his forehead. He brandished a bronze tipped Earth standard issue raygun which he leveled at CHAOTICA as he approached. “Spaceman First Class, Protector of Earth, Scourge of Intergalactic Evil.” He paused to bow his head slightly. “At your service.”
+The heroic Captain Proton stepped forward. He wore a brand new bomber jacket, khaki dress pants, a silver jetpack on his back with aviator goggles strapped to his forehead. He brandished a bronze tipped Earth standard issue raygun which he leveled at CHAOTICA as he approached. “Spaceman First Class, Protector of Earth, Scourge of Intergalactic Evil.” He paused to bow his head slightly. “At your service.”
 
 “But I saw you fall into the fiery mouth of that volcano!” CHAOTICA barked as he backed away slowly.
 
@@ -60,7 +60,7 @@ From behind the Doctor, the Robot appeared. It was cylindrical in shape, a few i
 
 “AHHH!” Goodheart shrieked again as if on cue.
 
-The Doctor rolled his eyes, having long since been fed up with the situation he now found himself in. “Computer, freeze program.” A beep of acknowledgement sounded above. Everything in the room except for the Doctor, Tom Paris and Harry Kim froze instantly in place. 
+The Doctor rolled his eyes, having long since been fed up with the situation he now found himself in. “Computer, freeze programme.” A beep of acknowledgement sounded above. Everything in the room except for the Doctor, Tom Paris and Harry Kim froze instantly in place. 
 
 “Doc, this is the final chapter.” Paris pleaded as he stepped up to the Doctor. “*Satan’s Robot Conquers the World.* We can’t just stop now.”
 
@@ -74,19 +74,19 @@ The Doctor rolled his eyes, having long since been fed up with the situation he 
 
 Kim winced at Paris’ argument. Even he had to admit that what Paris was saying was a bit of a stretch.
 
-“Well then, perhaps your efforts would be better spent outlining a new course for Starfleet Academy. Satan’s Robot: An Historical Overview” The Doctor said without skipping a beat. “But for now, your time is up. Computer, end program.” The Doctor declared. 
+“Well then, perhaps your efforts would be better spent outlining a new course for Starfleet Academy. Satan’s Robot: An Historical Overview” The Doctor said without skipping a beat. “But for now, your time is up. Computer, end programme.” The Doctor declared. 
 
 The rocket ship control room, the Robot, Constance Goodheart and CHAOTICA all shimmered out of existence. What was left were the drab, utilitarian walls filled with cables and holoprojectors which demarcated the edges of the hologrid. 
 
-“You can’t just waltz in here and shut down someone else’s program while they’re still running it.” Paris protested. “Computer, resume programme."
+“You can’t just waltz in here and shut down someone else’s programme while they’re still running it.” Paris protested. “Computer, resume programme."
 
 Once again the room around the trio shimmered, but this time the holodeck walls were replaced by the rocket ship and all the characters of the programme, just where they had left off.
 
-“Again, your time is up.” The Doctor stated. “Computer, end program.” The room began to shimmer.
+“Again, your time is up.” The Doctor stated. “Computer, end programme.” The room began to shimmer.
 
-“Computer, resume program.” The room began to shimmer again.
+“Computer, resume programme.” The room began to shimmer again.
 
-The two continued back and forth for a few moments, dematerializing and rematerializing the program. Kim tried to interrupt, but before he could, there was a loud pop in one of the hologrid control panels, followed by some smoke and finally the entire room lost power, leaving the three standing in darkness.
+The two continued back and forth for a few moments, dematerializing and rematerializing the programme. Kim tried to interrupt, but before he could, there was a loud pop in one of the hologrid control panels, followed by some smoke and finally the entire room lost power, leaving the three standing in darkness.
 
 Kim breathed a sigh. “Well I hope the two of you are happy.”
 
@@ -106,7 +106,7 @@ When Chakotay finished his impromptu survey, he realized that he had avoided loo
 
 From behind him, he could hear the characteristic hum of the turbolift slowing to a halt. After a moment, the doors opened with a swishing sound. Chakotay stood up and turned in time to see Seven of Nine step onto the bridge. As usual, she wore her blonde hair in a very formal bun. She never wore a starfleet uniform, rather she was dressed in a form fitting epidermal suit which today was colored dark brown. Having been freed from the Borg, the suit had helped her skin heal from the trauma of having her cybernetic implants removed. Though one piece of her ocular implant remained, which covered her left eyebrow. 
 
-Chakotay noted that she carried a PADD with her, most likely her latest astrometric telemetry report. “Seven, I want good news.” He said. “That’s an order.”
+Chakotay noted that she carried a small flat silver Personal Access Display Device with her. The PADD most likely contained her latest astrometric telemetry report. “Seven, I want good news.” He said. “That’s an order.”
 
 Seven stepped around the railing that separated the aft end of the bridge from the fore. “I cannot comply. There is no good news to report.” She handed the PADD to Chakotay. “I have completed my astrometric survey of the surrounding region. There are no star systems within two hundred and fifty light years of our current position.”
 

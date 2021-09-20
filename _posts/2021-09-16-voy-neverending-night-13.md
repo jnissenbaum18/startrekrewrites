@@ -54,11 +54,11 @@ Janeway continued. “If you relieve me as chief medical officer, Chakotay will 
 
 All eyes pointed at The Doctor. He hesitated at the very impossible position he had just been put into. On the one hand he did not want to see Janeway throw her life away. On the other hand, if he acted in his official capacity for purely personal reasons, it would undermine the legitimacy of any future decision he made as Voyagers chief medical officer. Janeway was very aware of the optics of the question before she asked him.
 
-“No.” He said finally. “I’m my official determination, you are still psychologically and physically fit for command. But I am hereby informing you that I will file an official protest with Starfleet Medical regarding your actions in my log.”
+“No.” He said finally. “In my official determination, you are still psychologically and physically fit for command. But I am hereby informing you that I will file an official protest with Starfleet Medical regarding your actions in my log.”
 
 Janeway smiled. “Duly noted.” She looked around at everyone at the table. “I have considered the matter carefully, and I have made my decision. Once I leave the ship, Chakotay will be in command and he has been instructed not to attempt to rescue me. Under any other circumstance, that would be permissible. But with Voyager’s power reserves in the state that they are in, a rescue attempt is out of the question. If I am able to, I will follow Voyager out in the shuttle and meet you on the other side.”
 
-“Captain, one more thing.” Paris said. “How exactly do you intend to get onto the station in the shuttle. They’re not just going to let you dock.”
+“Captain, one more thing.” Paris said. “How exactly do you intend to get onto the station in the shuttle? They’re not just going to let you dock.”
 
 “I will disable the shuttlecraft engines and take it in by momentum.” Janeway responded.
 

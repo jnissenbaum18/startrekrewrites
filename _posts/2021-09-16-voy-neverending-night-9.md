@@ -46,7 +46,7 @@ Janeway looked at him in confusion. “Dwindling? Why?”
 
 “I scanned each of them when they were brought on board.” The Doctor said. “Each one of them was suffering from severe theta radiation poisoning. They said they’ve lived for a long time in the Void, but now they’re dying Captain. The more the radiation continues to build, the fewer of them there are.”
 
-As Janeway watched Fantome and his friends talk to one another, her feelings turned from curiosity and awe to fury and rage. After all she had been through, all she had seen, she thought she could never be surprised anymore. But out here, in the middle of the most remote part of space, she watched one of the most breathtaking and awe inspiring sights she had ever seen. The sheer improbability of happenstance that had to occur for this very moment to take place was beyond reason. How anyone would want to destroy something as extraordinary as this was incomprehensible to her. The thought reviled Janeway down to her very core.
+As Janeway watched Fantome and his friends talk to one another, her feelings turned from curiosity and awe to fury and rage. After all she had been through, all she had seen, she thought she could never be surprised anymore. But out here, in the middle of the most remote part of space, she watched one of the most breathtaking and awe inspiring sights she had ever seen. The sheer improbability of happenstance that had to occur for this very moment to take place was beyond reason. How anyone would want to destroy something as extraordinary as this was incomprehensible to her. The thought abhorred Janeway down to her very core.
 
 “Tell them…” Janeway started, her voice filled with determination. “...Tell them that I’m going to find the cause of what’s killing them. Tell them that I’m going to find it and I’m going to eliminate it. No matter the cost.”
 
@@ -147,7 +147,7 @@ While keeping one eye on the two Malon, Chakotay tapped the communicator button 
 
 Kim walked over to the side of the ring opposite Torres and she moved to join him. “In here.” He said.
 
-Torres bushed off the top of the console with her glove, kicking up a plume of dust. It was totally dark and did not respond when she tapped her finger to it. She retrieved some tools from her kit and knelt down beside the panel that covered the console’s circuitry. “The computer may just be on standby.” She drew her phaser and set it to narrow beam mode. She aimed the phaser at the edges of the panel and began cutting. “If I can send a signal into the active circuit. The computer may just bring itself back online.”
+Torres brushed off the top of the console with her glove, kicking up a plume of dust. It was totally dark and did not respond when she tapped her finger to it. She retrieved some tools from her kit and knelt down beside the panel that covered the console’s circuitry. “The computer may just be on standby.” She drew her phaser and set it to narrow beam mode. She aimed the phaser at the edges of the panel and began cutting. “If I can send a signal into the active circuit. The computer may just bring itself back online.”
 
 “Hard to believe that a space station could last as long as this one has.” Kim thought out loud.
 

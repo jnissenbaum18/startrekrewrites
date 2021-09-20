@@ -92,9 +92,9 @@ On the viewscreen, Chakotay could see the mouth of the vortex emerge on the far 
 
 Voyager accelerated toward the station. The Alliance ships scrambled their way to the vortex, having lost all semblance of coordination. They each flew as fast as they could into the opening, making a break for normal space before they were trapped in the Void for good. The Malon freighter and the Krebor positioned themselves in between Voyager and the vortex, as if two heavyweight fighters were squaring up against their one opponent. 
 
-At once, the Malon freighter let loose with a volley of spatial charges. Voyager was able to maneuver around the detonations. But as the combatants drew closer, it became more difficult for Voyager to evade the incoming fire. As the Krebor came into range, it let loose with a beige blast from its main beam emitter. Voyager returned fire, phasers and photon torpedoes surged fourth and impacted the two vessels. Chakotay felt the bridge shudder beneath the incoming fire.
+At once, the Malon freighter let loose with a volley of spatial charges. Voyager was able to maneuver around the detonations. But as the combatants drew closer, it became more difficult for Voyager to evade the incoming fire. As the Krebor came into range, it let loose with a beige blast from its main beam emitter. Voyager returned fire, phasers and photon torpedoes surged forth and impacted the two vessels. Chakotay felt the bridge shudder beneath the incoming fire.
 
-“Shields down to 34 percent.” Tuvok called out.
+“Shields down to thirty four percent.” Tuvok called out.
 
 “What about the Malon?” Chakotay asked.
 

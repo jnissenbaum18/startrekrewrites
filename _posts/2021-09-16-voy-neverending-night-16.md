@@ -12,7 +12,7 @@ categories: voyager neverending
 
 “I’m on it!” Paris replied, entering in new course commands into the helm.
 
-Voyager rocketed away from the station at maximum acceleration. The alien station shuddered behind them. Erupting into a series of explosions across its hull. The plume of yellow and white energy expanded before then imploding back inward. The entire station had been totally consumed, leaving a swirling white ball of energy behind. Voyager continued on its trajectory. It entered the mouth of the vortex just as it was beginning to collapse behind them.
+Voyager rocketed away from the station at maximum acceleration. The alien station shuddered behind them. Erupting into a series of explosions across its hull. The plume of yellow and white energy expanded before imploding back inward. The entire station had been totally consumed, leaving a swirling white ball of energy behind. Voyager continued on its trajectory. It entered the mouth of the vortex just as it was beginning to collapse behind them.
 
 “We’re in!” Kim shouted. “Seven hundred kilometers to the exit...six fifty...six hundred...”
 

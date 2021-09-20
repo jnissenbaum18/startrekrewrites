@@ -114,7 +114,7 @@ Janeway internally noted that this was the first time in a long time the bridge 
 
 “On screen.” Janeway ordered.
 
-The viewscreen switched from the black formless void to an alien man sitting on the bridge of his vessel. His skin was dark grey and his black hair was slicked back in a military-esque fashion. He had ridges along the sides of his neck that stretched down to his shoulders. But what really caught Janeway’s attention was the spoon-shaped impression on the center of his forehead. Janeway instantly recognized him as one of the species that originated from the Alpha Quadrant, on the other side of the galaxy.
+The viewscreen switched from the black formless void to an alien man sitting on the bridge of his vessel. His skin was dark grey and his black hair was slicked back in military-esque fashion. He had ridges along the sides of his neck that stretched down to his shoulders. But what really caught Janeway’s attention was the spoon-shaped impression on the center of his forehead. Janeway instantly recognized him as one of the species that originated from the Alpha Quadrant, on the other side of the galaxy.
 
 “You’re Cardassian.” Janeway uttered, shocked.
 
@@ -195,7 +195,7 @@ Valen shook his head. “For some reason, the vortexes which pull in new ships o
 
 Janeway didn’t get the sense that Valen was lying about that point. “Could it have something to do with the increased levels of theta radiation?” She asked.
 
-Valen mulled over his question for a moment. “Perhaps.” He said. “We’ve never tried locating the source of the radiation. I try to stay away from it to conserve power.”
+Valen mulled over her question for a moment. “Perhaps.” He said. “We’ve never tried locating the source of the radiation. I try to stay away from it to conserve power.”
 
 “Maybe after we retrieve our property from the Raider, we can investigate the source.” Janeway proposed. “It may give us a clue as to why the vortexes are more active here.”
 

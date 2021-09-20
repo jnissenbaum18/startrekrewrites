@@ -6,7 +6,7 @@ date: 2021-09-15 17:36:06 -0500
 categories: voyager neverending
 ---
 
-Captain Janeway sipped on her lukewarm coffee. She had come into her ready room to clear her mind and to contemplate her next course of action. But her attention was not on her personal computer screen. Rather, it was fixated on the half empty cup of red leaf tea that Valen had left behind on her desk. For some reason, when Janeway went to recycle it in the replicator, her fingers refused to even touch the cup, as if it had been tainted somehow. 
+Captain Janeway sipped on her lukewarm coffee. She had come into her ready room to clear her mind and to contemplate her next course of action. But her attention was not on her personal computer screen. Rather, it was fixated on the empty cup of red leaf tea that Valen had left behind on her desk. For some reason, when Janeway went to recycle it in the replicator, her fingers refused to even touch the cup, as if it had been tainted somehow. 
 
 The encounter with Valen had disturbed her. She knew that Valen couldn’t be trusted, but she never expected him to act against Voyager so quickly. Nor did she think he was a cold blooded murderer. Even though she had taken defensive precautions given the first attack on Voyager, her lapse in judgement still left it vulnerable to attack. With only a single conversation, Valen had figured her out completely and knew exactly what she was going to do. No doubt drawing from his experience in dealing with Starfleet captains back in the Alpha Quadrant. 
 
@@ -16,7 +16,7 @@ Despite all that however, something Valen had said kept rolling around in her mi
 
 *‘Having encountered numerous ships here, I can say for certain that none of them are affable.’*
 
-The more she thought about that statement, the more she thought that it couldn’t possibly be true. After all, had Valen encountered every single ship in the Void? Doubtful. What was more likely was that it was Valen himself that was the inaffable one. Perhaps there were other crews in the Void like her own, trying to survive but also willing to cooperate to their mutual benefit under the right circumstances. She wondered if that particular hole in Valen’s thinking was actually his most exploitable weakness. She also wondered if that was actually Voyager’s greatest strength. 
+The more she thought about that statement, the more she thought that it couldn’t possibly be true. After all, had Valen encountered every single ship in the Void? Doubtful. What was more likely was that it was Valen himself that was the unaffable one. Perhaps there were other crews in the Void like her own, trying to survive but also willing to cooperate to their mutual benefit under the right circumstances. She wondered if that particular hole in Valen’s thinking was actually his most exploitable weakness. She also wondered if that was actually Voyager’s greatest strength. 
 
 Inspired, Janeway accessed the Voyager library computer and pulled up a document that she hadn’t read in decades, since her days at Starfleet Academy. She read in peace for less than half an hour before she was interrupted by the door chime.
 
@@ -98,7 +98,7 @@ Garon and his aides sighed all at once. Joining an already established organizat
 
 “Technically, Captain, that’s not correct.” Neelix said, breaking the silence. “I consider myself the first member of the Captain’s coalition. Four years ago, I offered her my services and the resources of my ship. In return she’s supported me, given me a place to call home and a crew to call family. Captain Janeway always stands by her word and she has never failed to help me when I needed it most.”
 
-Always looking to help in any way he could, Neelix would do everything in his power to support Janeway. Even if it meant stretching the truth a little. Janeway appreciated those qualities in Neelix. The unerring optimism, the unwavering loyalty. The very fact that Neelix felt it necessary to go up to bat for Voyager time and time again, only emphasised the fact that she had made the right choice all those years ago in asking him to join her crew.
+Always looking to help in any way he could, Neelix would do everything in his power to support Janeway. Even if it meant stretching the truth a little. Janeway appreciated those qualities in Neelix. The unerring optimism, the unwavering loyalty. The very fact that Neelix felt it necessary to go up to bat for Voyager time and time again, only emphasized the fact that she had made the right choice all those years ago in asking him to join her crew.
 
 “All I ask is that you consider our proposal.” Janeway concluded.
 

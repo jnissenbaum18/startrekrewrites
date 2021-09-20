@@ -118,7 +118,7 @@ Above them, the hologram projection began to react. Janeway saw the green object
 
 “No point.” Janeway said. “We’ll get out of here, and then we’ll destroy the station once we leave.”
 
-With that, Janeway headed back to Voyager. Torres and Kim continued their work cataloging deciphering the information contained within the alien station. No one noticed the two Malon had made a discreet exit towards the back of the room.
+With that, Janeway headed back to Voyager. Torres and Kim continued their work cataloging and deciphering the information contained within the alien station. No one noticed the two Malon had made a discreet exit towards the back of the room.
 
 “She intends to destroy the station.” The Malon lieutenant said under his breath, trying not to draw the attention of any of the Starfleet personnel. “We’ll no longer be able to use the funnels. We won’t be able to find another suitable area of space for ejection for at least the next ten cycles.” 
 
