@@ -20,7 +20,7 @@ The more she thought about that statement, the more she thought that it couldn�
 
 Inspired, Janeway accessed the Voyager library computer and pulled up a document that she hadn’t read in decades, since her days at Starfleet Academy. She read in peace for less than half an hour before she was interrupted by the door chime.
 
-“Come in.” She said towards the door.
+“Come in.” She said toward the door.
 
 The doors parted for Commander Chakotay and Lieutenant Commander Tuvok. The two stepped in with Chakotay carrying a data PADD. 
 
@@ -150,7 +150,7 @@ Normally, Seven would return to either the astrometrics lab to continue her anal
 
 The sickbay doors parted as Seven approached. When they opened, the characteristic swishing sound was replaced by opera music. It only took Seven a moment to identify the source of the piece as being Rigoletto Arias from the Italian composer Giuseppe Verdi written in the Earth year of 1851. One of the other benefits of being a former drone was that her mind contained the entire collective knowledge of the Borg, including that of Starfleet crewmembers which had been assimilated into the collective.  
 
-As Seven entered sickbay, she saw that the creature was still occupying the biobed on the far side of the room. However, instead of cowering in the corner as he used to do, he was seated comfortably on the biobed. In fact as Seven approached, she noted that the creature seemed quite enthralled with the music that was now playing over the sickbay sound system. Not even taking note of her entry. 
+As Seven entered sickbay, she saw that the creature was still occupying the biobed on the far side of the room. However, instead of cowering in the corner as he used to do, he was seated comfortably on it. In fact as Seven approached, she noted that the creature seemed quite enthralled with the music that was now playing over the sickbay sound system. Not even taking note of her entry. 
 
 Seven stepped up to the Doctor who was reading off the main sickbay console. “How is he?” She inquired.
 
@@ -178,7 +178,7 @@ The Doctor nodded. “Yes, it took me a few days to dig up anything related in o
 
 That statement sparked an idea in Seven’s mind. Fantome may not be able to speak, but if he could hear and was receptive to differential sounds, then perhaps there was a way to evoke a response from him. Seven paused the opera playback. Fantome immediately noticed the lack of music and for the first time took note of Seven’s presence. 
 
-The Doctor turned to her annoyed. “What are you doing? We were enjoying that.” 
+The Doctor turned to her, annoyed. “What are you doing? We were enjoying that.” 
 
 “Exactly.” Seven said, still contemplating her next course of action. “He may not be able to speak, but he can hear.”
 
@@ -188,10 +188,10 @@ Fantome was hesitant at first. But after a moment, he made his way off the bed a
 
 “He understands!” The Doctor proclaimed with jubilation. 
 
-Seven then played C-flat again. Fantome in turn responded by placing the medical instrument down and then holding the bowl up. Just then, Seven felt something she hadn’t really experienced before. Was it Pride? Or perhaps triumph? As she was processing these new emotions, Fantome did something completely unexpected. He set down the bowl and held up the hypospray. Seven didn’t need telepathy to understand exactly what he was asking. 
+Seven then played C-flat again. Fantome in turn responded by placing the medical instrument down and then holding the bowl up. Just then, Seven felt something she hadn’t really experienced before. Was it pride? Or perhaps triumph? As she was processing these new emotions, Fantome did something completely unexpected. He set down the bowl and held up the hypospray. Seven didn’t need telepathy to understand exactly what he was asking. 
 
 *What is this?*
 
-Seven played a G tone this time and Fantome examined the hypospray with unbridled curiosity. Seven’s mind quickly started working through the possibilities for communication. A syntax could be developed around different tonal qualities. Harmonic frequency combinations could be used for verb conjugation perhaps. Flats and sharps may be used to indicate modifiers such as adverbs and adjectives. While simple notes strung together in rapid succession could be used to describe nouns. The beginnings of a language. It would take time though. Time that could be spent working in the astrometrics lab. But then, Seven recalled the suggestion that the Captain had just made to her. About giving help without expecting anything in return. 
+Seven played a G tone this time and Fantome examined the hypospray with unbridled curiosity. Seven’s mind quickly started working through the possibilities for communication. A syntax could be developed around different tonal qualities. Harmonic frequency combinations could be used for verb conjugation perhaps. Flats and sharps could be used to indicate modifiers such as adverbs and adjectives. While simple notes strung together in rapid succession could be used to describe nouns. The beginnings of a language. It would take time though. Time that could be spent working in the astrometrics lab. But then, Seven recalled the suggestion that the Captain had just made to her, about giving help without expecting anything in return. 
 
 Seven regarded Fantome and decided right then that she was indeed going to help him.

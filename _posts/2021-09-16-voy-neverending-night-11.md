@@ -20,9 +20,9 @@ Janeway roused herself from the couch and headed out to the bridge. Before she g
 
 "Report." She said, stepping onto the bridge. 
 
-"We have an old friend." Chakotay said, motioning towards the viewscreen. 
+"We have an old friend." Chakotay said, motioning toward the viewscreen. 
 
-Janeway looked at it and saw the Krebor moving towards them.
+Janeway looked at it and saw the Krebor moving toward them.
 
 "He decloaked." Chakotay said. "And is just sitting there outside of weapons range."
 

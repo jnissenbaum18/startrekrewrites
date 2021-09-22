@@ -32,7 +32,7 @@ Torres folded her arms with a sigh. “Tom…” She began.
 
 “Don’t worry, you’ll be great!” Paris said half encouragingly, half impatiently. “Computer, resume programme.” He said to the holodeck computer.
 
-In an instant, the Robot was hobbling towards B’Elanna, arms flailing about uselessly. “Citizen of Earth, surrender!” It said in its robotic voice.
+In an instant, the Robot was hobbling toward B’Elanna, arms flailing about uselessly. “Citizen of Earth, surrender!” It said in its robotic voice.
 
 Tom quickly abandoned B’Elanna in order to attend to the rocket ship; to save Earth, presumably. B’Elanna just stood motionless, arms folded. Watching the poorly designed robot incompetently approach. Just then, she noted the very obvious box shaped looking panel on the robot’s chest. Ducking underneath the Robot’s attempts to grab her, Torres opened up the panel with ease to reveal a simple fuse system inside.
 

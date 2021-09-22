@@ -58,7 +58,7 @@ Fantome nodded at her. *Tell the Doctor we will miss him.*
 
 *I will.* Janeway replied.
 
-Fantome led his group to the right, towards the Krebor. Janeway took up her phaser rifle and went left. She emerged into the top level of the vortex generator complex. From here, she had a vantage point of the levels below, as well as a view of the generator which still illuminated the room with its scintillating white glow. Below her at the central computer control station, she could see Valen arguing with one of his Lieutenants. 
+Fantome led his group to the right, toward the Krebor. Janeway took up her phaser rifle and went left. She emerged into the top level of the vortex generator complex. From here, she had a vantage point of the levels below, as well as a view of the generator which still illuminated the room with its scintillating white glow. Below her at the central computer control station, she could see Valen arguing with one of his Lieutenants. 
 
 “It took Voyager less than a full day to make these modifications!” Valen shouted. “And you’re telling me it will take you a week to complete them?!”
 

@@ -114,7 +114,7 @@ Chakotay looked at her quizzically. “For what?”
 
 Chakotay took in her words and smiled warmly back at her. “You don’t owe me a thing. You always have my support and I will always believe in you, no matter what...But you’re welcome.”
 
-Janeway smiled back and raised the frisbee. She tossed it into the air and quickly shot at it with her phaser. The frisbee was sent flying towards the far wall. It ricocheted off of it and zoomed right toward Chakotay. He in turn deftly aimed his phaser and fired. The frisbee once again bounced off the far wall, this time it was Janeway’s turn to hit the flying disk. The two went back and forth for hours. They played game after game all throughout the night and well into the morning.
+Janeway smiled back and raised the frisbee. She tossed it into the air and quickly shot at it with her phaser. The frisbee was sent flying toward the far wall. It ricocheted off of it and zoomed right toward Chakotay. He in turn deftly aimed his phaser and fired. The frisbee once again bounced off the far wall, this time it was Janeway’s turn to hit the flying disk. The two went back and forth for hours. They played game after game all throughout the night and well into the morning.
 
 
 # The End

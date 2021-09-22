@@ -8,7 +8,7 @@ categories: voyager neverending
 
 “Citizens of Earth! Your destiny is now in my hands!” 
 
-The evil Dr. CHAOTICA let out a bellowing laugh as he traipsed back and forth through the room. Tall, slender, and sporting a dark black goatee, CHAOTICA was as cunning as he was cruel. He was dressed in a full black robe adorned with bright grey lightning bolts on the shoulders. He spoke into a metallic silver ball microphone which he held in one hand. In his other hand, he whipped the attached electrical cable to his side with a thunderous crack. He spoke in a slow menacing tone, callously inviting anyone foolish enough to interrupt him to do so.
+The evil Dr. CHAOTICA let out a bellowing laugh as he traipsed back and forth through the room. Tall, slender, and sporting a dark black goatee, CHAOTICA was as cunning as he was cruel. He was dressed in a full black robe adorned with bright grey lightning bolts on the shoulders. He spoke into a metallic silver ball microphone which he held in one hand. In his other, he whipped the attached electrical cable to his side with a thunderous crack. He spoke in a slow menacing tone, callously inviting anyone foolish enough to interrupt him to do so.
 
 “Those of you who acquiesce to my demands will be treated fairly.” He said with a raise of his eyebrow. “Oppose me, and you face a dire fate indeed. As you join my rank of slaves in the mines of Mercury!”
 
@@ -28,7 +28,7 @@ Suddenly, the airlock door snapped open with a hiss of rushing air and the man s
 
 CHAOTICA instantly recognized his arch-nemesis. “Captain Proton.” He said derisively
 
-The heroic Captain Proton stepped forward. He wore a brand new bomber jacket, khaki dress pants, a silver jetpack on his back with aviator goggles strapped to his forehead. He brandished a bronze tipped Earth standard issue raygun which he leveled at CHAOTICA as he approached. “Spaceman First Class, Protector of Earth, Scourge of Intergalactic Evil.” He paused to bow his head slightly. “At your service.”
+The heroic Captain Proton stepped forward. He wore a brand new bomber jacket, khaki dress pants, a silver jetpack on his back with aviator goggles strapped to his forehead. He brandished a bronze tipped Earth standard-issue raygun which he leveled at CHAOTICA as he approached. “Spaceman First Class, Protector of Earth, Scourge of Intergalactic Evil.” He paused to bow his head slightly. “At your service.”
 
 “But I saw you fall into the fiery mouth of that volcano!” CHAOTICA barked as he backed away slowly.
 
@@ -58,9 +58,9 @@ With a quick shimmer, the holographic doctor phased out of and back into existen
 
 From behind the Doctor, the Robot appeared. It was cylindrical in shape, a few inches taller than the Doctor himself. It had clamp shaped metal hands at the end of long scrunchy arms, box-like feet, a small black slit near where its face would be, and a control panel attached to its chest. It walked with a slow awkward gait, as if perpetually off balance. 
 
-“AHHH!” Goodheart shrieked again as if on cue.
+“AHHH!” Goodheart shrieked again, as if on cue.
 
-The Doctor rolled his eyes, having long since been fed up with the situation he now found himself in. “Computer, freeze programme.” A beep of acknowledgement sounded above. Everything in the room except for the Doctor, Tom Paris and Harry Kim froze instantly in place. 
+The Doctor rolled his eyes, having long since been fed up with the situation in which he now found himself. “Computer, freeze programme.” A beep of acknowledgement sounded above. Everything in the room except for the Doctor, Tom Paris and Harry Kim froze instantly in place. 
 
 “Doc, this is the final chapter.” Paris pleaded as he stepped up to the Doctor. “*Satan’s Robot Conquers the World.* We can’t just stop now.”
 
@@ -100,11 +100,11 @@ Kim’s voice replied over the intercom “Don’t worry, we’re fixing it now,
 
 “Don’t take too long Harry. The last thing we need right now is a broken holodeck.” With that Chakotay closed the channel.
 
-Under normal circumstances, a broken holodeck wouldn’t be cause for alarm, but Voyager was not under normal circumstances. Commander Chakotay surveyed the room around him. The bridge crew was sparse. The only stations that were manned right now were OPS and helm. Chakotay didn’t have to get up and look to know that the officers who manned them weren’t doing much. The bridge lighting had been dimmed down to conserve energy. The science and engineering stations were shut down and had been that way for some time now. After all, what was the point of monitoring sensors when they hadn’t encountered anything significant for weeks. 
+Under normal circumstances, a broken holodeck wouldn’t be cause for alarm, but Voyager was not under normal circumstances. Commander Chakotay surveyed the room around him. The bridge crew was sparse. The only stations that were manned right now were OPS and helm. Chakotay didn’t have to get up and look to know that the officers who manned them weren’t doing much. The bridge lighting had been dimmed down to conserve energy. The science and engineering stations were shut down and had been that way for some time now. After all, what was the point of monitoring sensors when they hadn’t encountered anything significant for weeks?
 
-When Chakotay finished his impromptu survey, he realized that he had avoided looking at the viewscreen, for it made him too uncomfortable to look at. He forced his eyes forward. The viewscreen was black, totally empty and devoid of feature. In any other circumstance, he would wonder if it was simply off or malfunctioning, but he knew it wasn’t. Normally it was filled with dots of stars or the bright colorful swath of the occasional nebula. But now, it displayed nothing. As painful as it was to look at, there was one other sight on the bridge that pained him even more. For, while there was nothing he could do about the lack of stars, there was something he could do about the other issue, though he had been avoiding it for some time now. 
+When Chakotay finished his impromptu survey, he realized that he had avoided looking at the viewscreen, for it made him too uncomfortable. He forced his eyes forward. The viewscreen was black, totally empty and devoid of feature. In any other circumstance, he would have wondered if it was simply off or malfunctioning, but he knew it wasn’t. Normally it was filled with dots of stars or the bright colorful swath of the occasional nebula. But now, it displayed nothing. As painful as it was to look at, there was one other sight on the bridge that pained him even more. For, while there was nothing he could do about the lack of stars, there was something he could do about the other issue, though he had been avoiding it for some time now. 
 
-From behind him, he could hear the characteristic hum of the turbolift slowing to a halt. After a moment, the doors opened with a swishing sound. Chakotay stood up and turned in time to see Seven of Nine step onto the bridge. As usual, she wore her blonde hair in a very formal bun. She never wore a starfleet uniform, rather she was dressed in a form fitting epidermal suit which today was colored dark brown. Having been freed from the Borg, the suit had helped her skin heal from the trauma of having her cybernetic implants removed. Though one piece of her ocular implant remained, which covered her left eyebrow. 
+From behind him, he could hear the characteristic hum of the turbolift slowing to a halt. After a moment, the doors opened with a swishing sound. Chakotay stood up and turned in time to see Seven of Nine step onto the bridge. As usual, she wore her blonde hair in a very formal bun. She never wore a starfleet uniform; rather she was dressed in a form fitting epidermal suit which today was colored dark brown. Having been freed from the Borg, the suit had helped her skin heal from the trauma of having her cybernetic implants removed. Though one piece of her ocular implant remained, which covered her left eyebrow. 
 
 Chakotay noted that she carried a small flat silver Personal Access Display Device with her. The PADD most likely contained her latest astrometric telemetry report. “Seven, I want good news.” He said. “That’s an order.”
 
@@ -118,7 +118,7 @@ Chakotay looked down at the PADD, which he was sure confirmed the report she jus
 
 “Negative. Although the average radiative flux continues to increase along our current heading.”
 
-“So we’re still moving towards the source?”
+“So we’re still moving toward the source?”
 
 “Presumably. Although I cannot confirm that.” Seven’s answers had a tendency to be short and direct. Efficient, as she would put it, the overarching doctrine of Borg behavior.
 
@@ -130,7 +130,7 @@ Chakotay shook his head in frustration. “Stranded, with no wind in our sails.�
 
 “Commander?” Seven asked, confused.
 
-Chakotay took a step towards the viewscreen. “It feels like we’ve been becalmed in the middle of the ocean, with no wind to help us reach the shore.” He paused for a moment, then looked back at Seven. “Two months in this empty pocket of space and it feels like the crew is already at its limits. How are we supposed to last out here?”
+Chakotay took a step toward the viewscreen. “It feels like we’ve been becalmed in the middle of the ocean, with no wind to help us reach the shore.” He paused for a moment, then looked back at Seven. “Two months in this empty pocket of space and it feels like the crew is already at its limits. How are we supposed to last out here?”
 
  “We will adapt.” Seven replied. Adaptation, the other hallmark of Borg behavior.
 
@@ -140,7 +140,7 @@ Feeling that she had nothing else to add, Seven merely asked. “Shall I inform 
 
 *The Captain.* 
 
-Chakotay finally looked down to the seat right beside his own. Empty, as it had been for weeks now. Normally, if the Captain was not on the bridge, she was in her ready room. But Chakotay knew she wasn’t there. No, ever since they had entered this region of space, the Captain had been different, uneasy, troubled. Finally, she had sequestered herself in her quarters and never came back out. Chakotay had been meaning to talk to the Captain about her behavior, but he just couldn’t bring himself to do it. What could he possibly say to her? He had avoided the confrontation for as long as he could, but now he felt that he could not put it off any longer. 
+Chakotay finally looked down to the seat right beside his own. Empty, as it had been for weeks now. Normally, if the Captain was not on the bridge, she was in her ready room. But Chakotay knew she wasn’t there. Ever since they had entered this region of space, the Captain had been different, uneasy, troubled. Finally, she had sequestered herself in her quarters and never came back out. Chakotay had been meaning to talk to the Captain about her behavior, but he just couldn’t bring himself to do it. What could he possibly say to her? He had avoided the confrontation for as long as he could, but now he felt that he could not put it off any longer. 
 
 “No.” Chakotay said. “I’ll tell her.”
 

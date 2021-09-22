@@ -10,7 +10,7 @@ Captain Janeway woke up to the worst headache of her life.
 
 She opened her eyes and saw the Doctor at the side of her bed. He had his back turned to her, reaching for a device. He spoke to Janeway without looking. “Once again, you find yourself in my trappings on the brink of death, only to be saved by my not inconsequential skills as a physician.” The Doctor turned around and shined a bright light into Janeway’s eyes. His scrutinizing face hovered over her while he conducted his examination. “The next time you decide to indulge yourself in your self-serving vendetta against your own life, I suggest you pick a more convenient time to do it.”
 
-“Status?” Janeway croaked. She tried to prop herself up on her elbows, but the moment she gained any sort of altitude she was hit with an intense wave of nausea. She fell back to the bed, waiting for the room to stop spinning. 
+“Status?” Janeway croaked. She tried to prop herself up on her elbows, but the moment she gained any sort of height she was hit with an intense wave of nausea. She fell back to the bed, waiting for the room to stop spinning. 
 
 “Now let that be a lesson to you.” The Doctor stated dryly. “Just lie there and be happy you’re still alive.”
 
@@ -18,9 +18,9 @@ She opened her eyes and saw the Doctor at the side of her bed. He had his back t
 
 “Still in one piece I presume.” The Doctor said. “I’ll inform Commander Chakotay that you’re conscious and he can fill you in on the details.”
 
-Janeway didn’t even bother nodding, she just lay back and closed her eyes, attempting to gather herself. After a few moments the nausea had subsided enough for her to look around the room. Sickbay was operating in low power mode. The displays were dimmed and the overhead lighting was set to minimum. There were a handful of crewmembers lying on the bio beds or seated on the floors. Some of them had radiation burns on the exposed areas of their skin which the Doctor seemed to be treating with a dermal regenerator. 
+Janeway didn’t even bother nodding, she just lay back and closed her eyes, attempting to gather herself. After a few moments, the nausea had subsided enough for her to look around the room. Sickbay was operating in low power mode. The displays were dimmed and the overhead lighting was set to minimum. There were a handful of crewmembers lying on the bio beds or seated on the floors. Some of them had radiation burns on the exposed areas of their skin which the Doctor seemed to be treating with a dermal regenerator. 
 
-Janeway slowly maneuvered herself so that she could sit up and see the entire room. Her headache had not gone away. As if that wasn’t enough, she felt a throbbing sensation in the back of her neck. It was as if someone had taken a hot knife and was now shoving it into the flesh next to her spine. Janeway tried her hardest to ignore the various sensations now afflicting her body. But something out of the corner of her eye caught her attention, which distanced the pain for her.
+Janeway slowly maneuvered herself so that she could sit up and see the entire room. Her headache had not gone away. As if that weren’t enough, she felt a throbbing sensation in the back of her neck. It was as if someone had taken a hot knife and was now shoving it into the flesh next to her spine. Janeway tried her hardest to ignore the various sensations now afflicting her body. But something out of the corner of her eye caught her attention, which distanced the pain for her.
 
 Some creature, from a species Janeway had never seen before, was crouching in a corner next to the advanced biobed. She tried to get a better view of him, but she had trouble getting a good look in the dark. “Doctor.” She said in an alert voice. 
 
@@ -28,13 +28,13 @@ The Doctor looked up to see what had Janeway so concerned. “Ah yes, we have a 
 
 This time Janeway forced herself to her feet, nausea be damned. The Doctor came over to assist her. He spoke in a low hushed tone. “Seven and B’Elanna found him on deck eleven. He was injured, so they brought him here.”
 
-“Is he one of the invaders?” Janeway asked, groggily shuffling closer. As she approached, the creature slunked back into the dark, crouching underneath the biobed for cover.
+“Is he one of the invaders?” Janeway asked, groggily shuffling closer. As she approached, the creature slunk back into the dark, crouching underneath the biobed for cover.
 
 “I don’t think so.” The Doctor responded. “He doesn’t seem to be hostile. Nor was he armed with any sort of weapons or technology. He’s a very timid fellow. He won’t even let me near enough to treat the injury on his leg. But the darkness does seem to calm him somewhat.”
 
 Janeway took a step up closer to the creature. “I’m Captain Kathryn Janeway. You’re safe here.”
 
-The creature did not respond. He continued to hide behind the biobed.
+The creature did not respond, continuing to hide behind the biobed.
 
 “I’ve tried communicating with him.” The Doctor continued. “He doesn’t appear to have any verbal skills.”
 
@@ -82,7 +82,7 @@ Janeway and Chakotay shared a brief glance. “Harry, take us to red alert. Get 
 
 “I’m not taking any chances today.” Janeway replied. “If they want to talk, they can do it from a distance.”
 
-Janeway started towards the door, but lost her balance on the way. Chakotay managed to catch her before she fell further. 
+Janeway started toward the door, but lost her balance on the way. Chakotay managed to catch her before she fell further. 
 
 From behind her, the Doctor spoke in a concerned tone. “Captain, you’ve sustained serious injuries. You’re in no condition to return to duty.”
 
@@ -104,7 +104,7 @@ Janeway and Chakotay made their way up to the bridge. When she emerged from the 
 
 “As you were.” She ordered and everyone’s attention returned to their duties. 
 
-Janeway internally noted that this was the first time in a long time the bridge had been fully manned. Ensign Kim and Lieutenant Commander Tuvok flanked either side of the bridge at the OPS and tactical stations, while Lieutenant Paris occupied the helm at the front. Janeway and Chakotay sat down next to each other in their respective chairs at the center of the bridge. For a moment, Janeway saw a small smile cross Chakotay’s face when he saw her sit down.
+Janeway internally noted that this was the first time in a long time the bridge had been fully staffed. Ensign Kim and Lieutenant Commander Tuvok flanked either side of the bridge at the OPS and tactical stations, while Lieutenant Paris occupied the helm at the front. Janeway and Chakotay sat down next to each other in their respective chairs at the center of the bridge. For a moment, Janeway saw a small smile cross Chakotay’s face when he saw her sit down.
 
 “Something the matter Commander?” Janeway asked.
 
@@ -126,7 +126,7 @@ The viewscreen switched from the black formless void to an alien man sitting on 
 
 “There was a vessel that just attacked us, perhaps that is the one you’re referring to. We’ve had some trouble tracking it through the theta radiation.” Janeway said.
 
-“Ah, then perhaps we can be of some assistance to each other. We were also attacked by the ship. However, we’ve been able to modify our sensors to compensate for the effects of the theta radiation. Perhaps, we can combine our efforts?” Valens tone was cold and calculating.
+“Ah, then perhaps we can be of some assistance to eachother. We were also attacked by the ship. However, we’ve been able to modify our sensors to compensate for the effects of the theta radiation. Perhaps, we can combine our efforts?” Valens tone was cold and calculating.
 
 “I was thinking the same thing.” Janeway said. “Would you care to beam aboard Voyager and we can discuss our mutual experiences?”
 
@@ -142,7 +142,7 @@ Janeway turned to Chakotay in disbelief, but he seemed lost in thought.
 
 Chakotay drew in a breath. “It’s not over yet.” He replied ominously.
 
-The CDS Krebor rendezvoused with Voyager half an hour later. Janeway peered at the vessel through her ready room windows as she waited for Gul Valen. It was a typical Cardassian design, roughly in the shape of the Egyptian Ankh hieroglyphic symbol. At the head of the Krebor, the bridge sat atop a halfmoon structure that was raised above the main body. The warp engines were shaped like blades, they jutted out of the sides of the forward section of the main body like wings. The hull then tapered to a streamlined tail section which ended in a double point. Janeway thought to herself that there was something odd about that ship. It looked like there was an unfinished module on its dorsal section. Almost as if the Galor-class warship was in the middle of being upgraded to the much more powerful Keldon-class.
+The CDS Krebor rendezvoused with Voyager half an hour later. Janeway peered at the vessel through her ready room windows as she waited for Gul Valen. It was a typical Cardassian design, roughly in the shape of the Egyptian Ankh hieroglyphic symbol. At the head of the Krebor, the bridge sat atop a halfmoon structure that was raised above the main body. The warp engines were shaped like blades, they jutted out of the sides of the forward section of the main body like wings. The hull then tapered to a streamlined tail section which ended in a double point. Janeway thought to herself that there was something odd about that ship. It looked like there was an unfinished module on its dorsal section; almost as if the Galor-class warship was in the middle of being upgraded to the much more powerful Keldon-class.
 
 From behind Janeway, the doors parted and Gul Valen stepped through. “Captain Janeway.” He said with a slight bow of his head. Valen was dressed in the typical Cardassian uniform. The most outstanding feature of the uniform was the dark grey, triangular shaped metal plate that covered Valen’s chest. Flexible black fabric stretched out from the plate to cover his arms and lower torso. His pants and boots were similarly made of the militaristic dark grey and black fabrics. The uniform included a communications device wrapped around the wrist and the yellow lettering emblazoned on the chestplate signified his rank as Gul, which was equivalent to a Starfleet Captain.
 
@@ -165,7 +165,7 @@ Gul Valen took a sip of his tea while he contemplated a response. “It is a rat
 
 “And you Captain?” Valen asked, refusing to elaborate further.
 
-“A portion of my crew did not survive the encounter. We made contact with the Caretaker and I even had the opportunity to return to the Alpha Quadrant.” She said.
+“A portion of my crew did not survive the encounter. We made contact with the Caretaker, and I even had the opportunity to return to the Alpha Quadrant.” She said.
 
 “Evidently, you remained.” Valen observed.
 
@@ -231,7 +231,7 @@ The viewscreen at the front of the bridge switched to display the Raider vessel.
 
 “Magnify.” Janeway said. 
 
-The screen flickered for a moment as it zoomed in. The Raiders vessel was clearly in view now. Janeway noted that there were several small dots of light scattered in front of it. Suddenly, a bright white swirl of energy grew out of nowhere in front of the Raider. It swelled in size as if it were the mouth of a whale about to swallow its prey. From the center of the vortex, another vessel tumbled through. Right into the center of the devices. The lights from the incoming ship sputtered and died as it lost power. 
+The screen flickered for a moment as it zoomed in. The Raiders vessel was clearly in view now. Janeway noted that there were several small dots of light scattered in front of it. Suddenly, a bright white swirl of energy grew out of nowhere in front of the Raider. It swelled in size as if it were the mouth of a whale about to swallow its prey. From the center of the vortex, another vessel tumbled through. right into the center of the devices. The lights from the incoming ship sputtered and died as it lost power. 
 
 “They must have deployed the same dampening field they used on us.” Chakotay said in alarm.
 
