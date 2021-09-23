@@ -1,0 +1,18 @@
+---
+layout: page
+title: "Breakdowns"
+---
+
+<div class="compilations">
+  <ul>
+    {% for post in site.posts %}
+      {% if post.breakdown == true %}
+        <li>
+          <a href="{{ post.url | relative_path }}">
+            {{ post.title }}
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
