@@ -6,7 +6,7 @@ date: 2021-09-15 17:36:08 -0500
 categories: voyager neverending
 ---
 
-*Captains Log, Stardate 52096.4: Since Captain Garon and Captain Loquar became our charter members of the Alliance, finding new allies has gotten a little easier. My latest prospect is a man named Controller Emck.*
+*Captains Log, Stardate 52096.4: Since Captain Garon and Captain Loquar became our charter members of the Alliance two days ago, finding new allies has gotten a little easier. My latest prospect is a man named Controller Emck.*
 
 “Energize.” Captain Janeway commanded.
 
@@ -114,7 +114,7 @@ The overhead comm system sounded with a bleep. “Seven of Nine to Captain Janew
 
 “Please excuse me.” Janeway said to Emck as she stood up to leave.
 
-Janeway made her way down to the astrometrics lab and stepped inside. The roughly egg shaped room was spacious and perfectly shaped to present information. At the far end of the room was a very large screen at least four meters across and three meters high. Seven of Nine had designed the room along with Harry Kim. They combined Starfleet and Borg technology into an advanced sensor suite more capable than anything Voyager had originally been equipped with. Seven of Nine spent most of her time here, collating, analyzing and presenting the information the lab collected in the most efficient way possible. Usually Seven spent her time alone here. But at the moment, she was joined by two other crew members from the first ship Janeway had rescued a few days ago. The ship she now knew belonged to Captain Loquar of an organization known as The Hierarchy.  
+Janeway made her way down to the astrometrics lab and stepped inside. The roughly egg shaped room was spacious and perfectly shaped to present information. At the far end of the room was a very large screen at least four meters across and three meters high. Seven of Nine had designed the room along with Harry Kim. They combined Starfleet and Borg technology into an advanced sensor suite more capable than anything Voyager had originally been equipped with. Seven of Nine spent most of her time here, collating, analyzing and presenting the information the lab collected in the most efficient way possible. Usually, Seven preferred to work in isolation. But at the moment, she was joined by two other crew members from the first ship Janeway had rescued a few days ago. The ship she now knew belonged to Captain Loquar of an organization known as The Hierarchy.  
 
 “Captain, these men are not authorized to be here. I request that they be removed.” Seven demanded.
 

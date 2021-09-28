@@ -112,7 +112,7 @@ Emck laughed. "Unfortunately, that would not be in my interest either. You see, 
 
 Janeway puzzled at Emck's words. But then her face was overcome with realization. "You're responsible for the theta radiation." Janeway accused, her voice overcome with disgust. 
 
-"Guilty." Emck said. "Controller Emck, Eleventh Gradient First Class, Antimatter waste disposal unit."
+"Guilty." Emck said. "Controller Emck, Eleventh Gradient First Class, Antimatter Waste Disposal Unit."
 
 "You used the Void as your dumping ground." Janeway growled, putting together the clues. "You’ve been ejecting your antimatter waste into the funnels. Not caring who or what was on the other side. But this time you got a little too close didn't you?" 
 

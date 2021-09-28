@@ -150,8 +150,6 @@ Over the bridge speakers, a series of musical tones sounded in rapid succession.
 
 “It’s Fantome’s cohort.” Seven said, running the tones through the translation matrix. “They say ‘mission accomplished’, The Krebors power systems have successfully been disabled.”
 
-The bridge crew let out a sigh of relief at the news.
-
 “Who says gremlins in the engine are a myth?” Paris quipped.
 
 Not losing a moment, Chakotay turned around to look behind him. “Seven, what’s the status of the vortex?”

@@ -100,6 +100,8 @@ Garon and his aides sighed all at once. Joining an already established organizat
 
 Always looking to help in any way he could, Neelix would do everything in his power to support Janeway. Even if it meant stretching the truth a little. Janeway appreciated those qualities in Neelix. The unerring optimism, the unwavering loyalty. The very fact that Neelix felt it necessary to go up to bat for Voyager time and time again, only emphasized the fact that she had made the right choice all those years ago in asking him to join her crew.
 
+“It's a noble idea, Captain.” Garon said. “But good intentions are like deuterium reserves. They tend to get lost in the Void.”
+
 “All I ask is that you consider our proposal.” Janeway concluded.
 
 “I will.” Garon said, rising from his seat.

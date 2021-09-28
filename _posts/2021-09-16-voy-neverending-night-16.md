@@ -38,7 +38,7 @@ Paris shook his head while still furiously entering in course corrections. “No
 
 “That’s it!” Torres shouted. “That’s all the power there is.”
 
-Chakotay could see the exit to the vortex now. The circlet at the end of the vortex began to shrink. He could see stars on the other side of it. They were close now. So very close.
+Chakotay could see the exit to the vortex now. The circle at the end of the vortex began to shrink. He could see stars on the other side of it. They were close now. So very close.
 
 “The vortex is about to collapse!” Seven reported.
 

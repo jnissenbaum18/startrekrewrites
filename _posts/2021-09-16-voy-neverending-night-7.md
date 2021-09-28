@@ -12,19 +12,19 @@ categories: voyager neverending
 
 Despite all that was going on, Tom Paris still had some holodeck time left over and he wasn’t about to let it go to waste. The crew still had use of one holodeck, but they had been limited to half an hour each. Paris was determined to make the most of his time. He had restarted the Captain Proton programme right where he had left off. Harry was too busy commanding Voyager during the night shift to play Buster Kincaid. B’Elanna on the other hand was free. Despite her protests to the contrary, Paris knew that she was just trying to avoid having to participate in the holoprogram. 
 
-“And who exactly am I supposed to be?” Torres asked, clearly wanting to engage in this programme as little as possible. She hadn’t even bothered to change into an appropriate costume, instead simply wearing her standard issue Starfleet uniform. Though the golden shoulders of her top, signifying the engineering department, had been turned bright grey to suit the programme setting.
+“And who exactly am I supposed to be?” Torres asked, halfheartedly. She hadn’t even bothered to change into an appropriate costume, instead simply wearing her standard issue Starfleet uniform. Though the golden shoulders of her top, signifying the engineering department, had been turned bright grey to suit the programme setting.
 
 “Ah, right.” Paris said, walking over to her already fully dressed in his jetsuit and rocket pack. “You’re Constance Goodheart. You’re my secretary.”
 
-“I’m your secretary?” Torres scoffed, insulted.
+“I’m your secretary?” Torres asked, insulted.
 
 “Yeah, you tag along on all the missions.” Paris continued, not even noticing Torres’ reaction. He pointed over to the Robot across the room. “Now, I want you to keep the robot occupied while I save Earth.”
 
-“Why do you get to save Earth?” Torres asked incredulously.
+“Why do you get to save Earth?” Torres inquired incredulously.
 
 “Because I’m Captain Proton.” He said, stating what he thought was plainly obvious. “I’m the hero.”
 
-“And I’m just supposed to stand around while you get to save the day?” Torres was having none of Paris’ boyhood fantasies. 
+Torres scoffed. “And I’m just supposed to stand around while you get to save the day?” 
 
 “Well no, you have to help me by keeping the Robot busy.” Paris said.
 
@@ -32,7 +32,7 @@ Torres folded her arms with a sigh. “Tom…” She began.
 
 “Don’t worry, you’ll be great!” Paris said half encouragingly, half impatiently. “Computer, resume programme.” He said to the holodeck computer.
 
-In an instant, the Robot was hobbling toward B’Elanna, arms flailing about uselessly. “Citizen of Earth, surrender!” It said in its robotic voice.
+In an instant, the Robot was hobbling toward B’Elanna, arms flailing about uselessly. “Citizen of Earth, surrender!” It said in its synthesized voice.
 
 Tom quickly abandoned B’Elanna in order to attend to the rocket ship; to save Earth, presumably. B’Elanna just stood motionless, arms folded. Watching the poorly designed robot incompetently approach. Just then, she noted the very obvious box shaped looking panel on the robot’s chest. Ducking underneath the Robot’s attempts to grab her, Torres opened up the panel with ease to reveal a simple fuse system inside.
 
@@ -69,6 +69,7 @@ Paris heard Janeway’s commands as he stepped off the turbolift. “Charge weap
 “A subspace funnel just opened.” Chakotay said. “It pulled in a new vessel.”
 
 “Two warships are approaching it.” Tuvok added quickly. “One of them is the Krebor.”
+
 Janeway didn’t even have to think about who to target first. “Target Valen and hail him.”
 
 Valen appeared on the viewscreen, replacing the image of the trio of ships engaging each other. “Captain Janeway.” Valen said with cold intensity. “We meet again.”
